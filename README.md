@@ -32,10 +32,11 @@ Website ini mendukung fitur manajemen posting, kategori, komentar, serta dashboa
 
 ## 🚀 Tech Stack
 
-- [Laravel 11](https://laravel.com/) - PHP Framework
+- [Laravel 12](https://laravel.com/) - PHP Framework
 - [Bootstrap 5](https://getbootstrap.com/) - CSS Framework
+- [Tailwindcss(https://tailwindcss.com/) - CSS Framework
 - [jQuery](https://jquery.com/) - JS Library
-- [MySQL](https://www.mysql.com/) - Database
+- [PostgreSql](https://postgresql.com/) - Database
 - [Laravel Breeze](https://laravel.com/docs/master/starter-kits#breeze) - Auth scaffolding
 
 ---
